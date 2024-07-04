@@ -7,8 +7,8 @@
 - Vitor Daniel de Resende (15554936);
 
 ## Circuito
-!(img/circuito1.png)
-!(img/circuito2.png)
-!(img/circuito3.png)
+![Imagem 1](img/circuito1.png)
+![Imagem 2](img/circuito2.png)
+![Imagem 3](img/circuito3.png)
 
 
